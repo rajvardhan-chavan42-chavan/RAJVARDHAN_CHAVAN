@@ -1,5 +1,81 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FUTURISTIC HEADER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/ai-banner.png" width="100%" alt="Rajvardhan Chavan - AI Developer"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Exploring+Open+Source+%F0%9F%8C%B1;Future+Software+Engineer+%E2%9A%A1" alt="Typing Animation"/>
+
+<br><br>
+
+<a href="https://github.com/rajvardhan-chavan42-chavan">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rajchavan6752">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rajvardhanchavan42@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rajvardhan-chavan42-chavan&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧑‍💻 `ABOUT_ME.exe`
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```text
+╔══════════════════════════════════════════════════╗
+║                  RAJVARDHAN.OS                   ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  👤 NAME                                         ║
+║     Rajvardhan Chavan                            ║
+║                                                  ║
+║  🎓 EDUCATION                                    ║
+║     B.Tech Computer Science & Engineering       ║
+║                                                  ║
+║  🤖 INTEREST                                     ║
+║     Artificial Intelligence & Machine Learning   ║
+║                                                  ║
+║  🐍 PRIMARY                                      ║
+║     Python                                       ║
+║                                                  ║
+║  ☕ ALSO LEARNING                                ║
+║     Java                                         ║
+║                                                  ║
+║  🧠 PRACTICE                                     ║
+║     Data Structures & Algorithms                 ║
+║                                                  ║
+║  🗄️ DATABASE                                     ║
+║     SQL / MySQL                                  ║
+║                                                  ║
+║  🌱 FOCUS                                        ║
+║     Open Source + Real-World Projects           ║
+║                                                  ║
+║  🚀 GOAL                                         ║
+║     Software Engineer                            ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝<div align="center">
+
 <img src="./assets/banner.png" width="100%" alt="Rajvardhan AI Banner"/>
 
 # 👋 Hey, I'm Rajvardhan Chavan
